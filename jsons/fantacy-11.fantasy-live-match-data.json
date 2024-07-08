@@ -1,0 +1,6359 @@
+[{
+  "_id": {
+    "$oid": "661295fba06e2fdf414cedd3"
+  },
+  "matchId": "661295dba06e2fdf414cedb6",
+  "teams": [
+    {
+      "teamId": "660515ff7d9bfc89e22d964b",
+      "score": 23,
+      "wickets": 0,
+      "extras": 0,
+      "players": [
+        {
+          "playerId": "66069d0c7d9bfc89e22d974b",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/57.png",
+          "name": "MS Dhoni",
+          "role": "wicketkeeper",
+          "fantasyPoints": 25,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 21,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d974c",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/206.png",
+          "name": "Moeen Ali",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d974d",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/91.png",
+          "name": "Deepak Chahar",
+          "role": "bowler",
+          "fantasyPoints": 2,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d974e",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/601.png",
+          "name": "Devon Conway",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "balls": 6,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d974f",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/539.png",
+          "name": "Tushar Deshpande",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9750",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/211.png",
+          "name": "Shivam Dube",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9751",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/102.png",
+          "name": "Ruturaj Gaikwad",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9752",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/783.png",
+          "name": "Rajvardhan Hangargekar",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "balls": 6,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9753",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/46.png",
+          "name": "Ravindra Jadeja",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "lefthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9754",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1931.png",
+          "name": "Ajay Mandal",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9755",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/970.png",
+          "name": "Mukesh Choudhary",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        }
+      ],
+      "over": 2,
+      "ball": 2,
+      "teamPoints": 23,
+      "strikerId": "66069d0c7d9bfc89e22d974d",
+      "nonStrikerId": "66069d0c7d9bfc89e22d974b",
+      "currentBowlerId": "66069d0c7d9bfc89e22d974e"
+    },
+    {
+      "teamId": "660515ff7d9bfc89e22d964c",
+      "score": 0,
+      "wickets": 0,
+      "extras": 0,
+      "players": [
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a1",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/6.png",
+          "name": "Rohit Sharma",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "10",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a2",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/797.png",
+          "name": "Dewald Brevis",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a3",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/174.png",
+          "name": "Suryakumar Yadav",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 6,
+            "runs": 8,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a4",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/164.png",
+          "name": "Ishan Kishan",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 2,
+            "runs": 5,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a5",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/993.png",
+          "name": "N Tilak Varma",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "rightarm offbreak",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a6",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/636.png",
+          "name": "Tim David",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 6,
+            "runs": 10,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a7",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/801.png",
+          "name": "Kwena Maphaka",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm fast medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a8",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/9.png",
+          "name": "Jasprit Bumrah",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "10",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a9",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/149.png",
+          "name": "Piyush Chawla",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "right hand bat",
+          "bowling_hand": "right arm legbreak",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97aa",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1015.png",
+          "name": "Kumar Kartikeya Singh",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97ab",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1045.png",
+          "name": "Akash Madhwal",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        }
+      ],
+      "over": 2,
+      "ball": 0,
+      "teamPoints": 0,
+      "strikerId": "66069d0c7d9bfc89e22d97a2",
+      "nonStrikerId": "66069d0c7d9bfc89e22d97a6",
+      "currentBowlerId": "66069d0c7d9bfc89e22d97a4"
+    }
+  ],
+  "toss": "660515ff7d9bfc89e22d964b",
+  "battingFrist": "660515ff7d9bfc89e22d964b",
+  "currentBatting": "660515ff7d9bfc89e22d964c",
+  "currentBowling": "660515ff7d9bfc89e22d964b",
+  "overs": 2,
+  "innings": 3,
+  "matchCompleted": true,
+  "isOngoing": false,
+  "inningsBreak": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6615759eb2ae89bfe0aaa87c"
+  },
+  "matchId": "6615758cb2ae89bfe0aaa85f",
+  "teams": [
+    {
+      "teamId": "660515ff7d9bfc89e22d964c",
+      "score": 10,
+      "wickets": 0,
+      "extras": 0,
+      "players": [
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a1",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/6.png",
+          "name": "Rohit Sharma",
+          "role": "batsman",
+          "fantasyPoints": 5,
+          "credit": "10",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 5,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a2",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/797.png",
+          "name": "Dewald Brevis",
+          "role": "batsman",
+          "fantasyPoints": 5,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 5,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a3",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/174.png",
+          "name": "Suryakumar Yadav",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a4",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/164.png",
+          "name": "Ishan Kishan",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 3,
+            "balls": 20,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a5",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/993.png",
+          "name": "N Tilak Varma",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "rightarm offbreak",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a6",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/636.png",
+          "name": "Tim David",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a7",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/801.png",
+          "name": "Kwena Maphaka",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm fast medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a8",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/9.png",
+          "name": "Jasprit Bumrah",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "10",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "balls": 12,
+            "runs": 9,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a9",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/149.png",
+          "name": "Piyush Chawla",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "right hand bat",
+          "bowling_hand": "right arm legbreak",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97aa",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1015.png",
+          "name": "Kumar Kartikeya Singh",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97ab",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1045.png",
+          "name": "Akash Madhwal",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        }
+      ],
+      "over": 0,
+      "ball": 2,
+      "teamPoints": 10,
+      "strikerId": "66069d0c7d9bfc89e22d97a1",
+      "nonStrikerId": "66069d0c7d9bfc89e22d97a2",
+      "currentBowlerId": "66069d0c7d9bfc89e22d97a5"
+    },
+    {
+      "teamId": "660515ff7d9bfc89e22d9654",
+      "score": 9,
+      "wickets": 0,
+      "extras": 0,
+      "players": [
+        {
+          "playerId": "66069d0c7d9bfc89e22d97e1",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/18.png",
+          "name": "Rishabh Pant",
+          "role": "wicketkeeper",
+          "fantasyPoints": 10,
+          "credit": "10",
+          "batting_hand": "lefthand",
+          "bowling_hand": "rightarm offbreak",
+          "batting": {
+            "runs": 8,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97e2",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/214.png",
+          "name": "David Warner",
+          "role": "batsman",
+          "fantasyPoints": 1,
+          "credit": "10",
+          "batting_hand": "lefthand",
+          "bowling_hand": "rightarm legbreak",
+          "batting": {
+            "runs": 1,
+            "balls": 15,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 2,
+            "runs": 10,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97e3",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/51.png",
+          "name": "Prithvi Shaw",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm offbreak",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97e4",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/777.png",
+          "name": "Yash Dhull",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97e5",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/268.png",
+          "name": "Shai Hope",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97e6",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/3102.png",
+          "name": "Swastik Chhikara",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97e7",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/548.png",
+          "name": "Pravin Dubey",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm legbreak googly",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97e8",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/786.png",
+          "name": "Vicky Ostwal",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "lefthand",
+          "bowling_hand": "left arm medium fast",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97e9",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/142.png",
+          "name": "Anrich Nortje",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "right hand bat",
+          "bowling_hand": "right arm fast",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97ea",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/14.png",
+          "name": "Kuldeep Yadav",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "lefthand",
+          "bowling_hand": "lefthand chinaman",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97eb",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/3115.png",
+          "name": "Jake Fraser-McGurk",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "righthand",
+          "bowling_hand": "right arm legbreak",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        }
+      ],
+      "over": 2,
+      "ball": 0,
+      "teamPoints": 9,
+      "strikerId": "66069d0c7d9bfc89e22d97e3",
+      "nonStrikerId": "66069d0c7d9bfc89e22d97e6",
+      "currentBowlerId": "66069d0c7d9bfc89e22d97e2"
+    }
+  ],
+  "toss": "660515ff7d9bfc89e22d9654",
+  "battingFrist": "660515ff7d9bfc89e22d9654",
+  "currentBatting": "660515ff7d9bfc89e22d964c",
+  "currentBowling": "660515ff7d9bfc89e22d9654",
+  "overs": 2,
+  "innings": 2,
+  "matchCompleted": true,
+  "isOngoing": false,
+  "inningsBreak": true,
+  "__v": 0,
+  "target": 10
+},
+{
+  "_id": {
+    "$oid": "663059f633c74acc4b97f4c5"
+  },
+  "matchId": "663059e333c74acc4b97f4a7",
+  "teams": [
+    {
+      "teamId": "660515ff7d9bfc89e22d964b",
+      "score": 15,
+      "wickets": 0,
+      "extras": 0,
+      "players": [
+        {
+          "playerId": "66069d0c7d9bfc89e22d974b",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/57.png",
+          "name": "MS Dhoni",
+          "role": "wicketkeeper",
+          "fantasyPoints": 1,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d974c",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/206.png",
+          "name": "Moeen Ali",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d974d",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/91.png",
+          "name": "Deepak Chahar",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d974e",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/601.png",
+          "name": "Devon Conway",
+          "role": "batsman",
+          "fantasyPoints": 18,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 14,
+            "balls": 3,
+            "fours": 2,
+            "sixes": 1,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d974f",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/539.png",
+          "name": "Tushar Deshpande",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9750",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/211.png",
+          "name": "Shivam Dube",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9751",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/102.png",
+          "name": "Ruturaj Gaikwad",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9752",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/783.png",
+          "name": "Rajvardhan Hangargekar",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9753",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/46.png",
+          "name": "Ravindra Jadeja",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "lefthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9754",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1931.png",
+          "name": "Ajay Mandal",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9755",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/970.png",
+          "name": "Mukesh Choudhary",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        }
+      ],
+      "over": 0,
+      "ball": 5,
+      "teamPoints": 15,
+      "strikerId": "66069d0c7d9bfc89e22d974e",
+      "nonStrikerId": "66069d0c7d9bfc89e22d974b",
+      "currentBowlerId": ""
+    },
+    {
+      "teamId": "660515ff7d9bfc89e22d964c",
+      "score": 0,
+      "wickets": 0,
+      "extras": 0,
+      "players": [
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a1",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/6.png",
+          "name": "Rohit Sharma",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "10",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a2",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/797.png",
+          "name": "Dewald Brevis",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a3",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/174.png",
+          "name": "Suryakumar Yadav",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a4",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/164.png",
+          "name": "Ishan Kishan",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a5",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/993.png",
+          "name": "N Tilak Varma",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "rightarm offbreak",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a6",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/636.png",
+          "name": "Tim David",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a7",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/801.png",
+          "name": "Kwena Maphaka",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm fast medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a8",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/9.png",
+          "name": "Jasprit Bumrah",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "10",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a9",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/149.png",
+          "name": "Piyush Chawla",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "right hand bat",
+          "bowling_hand": "right arm legbreak",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97aa",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1015.png",
+          "name": "Kumar Kartikeya Singh",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97ab",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1045.png",
+          "name": "Akash Madhwal",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 5,
+            "runs": 15,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        }
+      ],
+      "over": 0,
+      "ball": 0,
+      "teamPoints": 0,
+      "strikerId": "",
+      "nonStrikerId": "",
+      "currentBowlerId": "66069d0c7d9bfc89e22d97ab"
+    }
+  ],
+  "toss": "660515ff7d9bfc89e22d964c",
+  "battingFrist": "660515ff7d9bfc89e22d964b",
+  "currentBatting": "660515ff7d9bfc89e22d964b",
+  "currentBowling": "660515ff7d9bfc89e22d964c",
+  "overs": 10,
+  "innings": 1,
+  "matchCompleted": false,
+  "target": 0,
+  "isOngoing": true,
+  "inningsBreak": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663079cd7b4b4af6a1ac9b96"
+  },
+  "matchId": "663079817b4b4af6a1ac9b78",
+  "teams": [
+    {
+      "teamId": "660515ff7d9bfc89e22d964c",
+      "score": 31,
+      "wickets": 2,
+      "extras": 3,
+      "players": [
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a1",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/6.png",
+          "name": "Rohit Sharma",
+          "role": "batsman",
+          "fantasyPoints": 15,
+          "credit": "10",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 12,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 1,
+            "isDismissed": true
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a2",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/797.png",
+          "name": "Dewald Brevis",
+          "role": "batsman",
+          "fantasyPoints": 5,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 4,
+            "balls": 1,
+            "fours": 1,
+            "sixes": 0,
+            "isDismissed": true
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a3",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/174.png",
+          "name": "Suryakumar Yadav",
+          "role": "batsman",
+          "fantasyPoints": 13,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 12,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 2,
+            "runs": 9,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a4",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/164.png",
+          "name": "Ishan Kishan",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a5",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/993.png",
+          "name": "N Tilak Varma",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "rightarm offbreak",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a6",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/636.png",
+          "name": "Tim David",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a7",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/801.png",
+          "name": "Kwena Maphaka",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm fast medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a8",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/9.png",
+          "name": "Jasprit Bumrah",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "10",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "balls": 6,
+            "runs": 24,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a9",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/149.png",
+          "name": "Piyush Chawla",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "right hand bat",
+          "bowling_hand": "right arm legbreak",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97aa",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1015.png",
+          "name": "Kumar Kartikeya Singh",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97ab",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1045.png",
+          "name": "Akash Madhwal",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        }
+      ],
+      "over": 2,
+      "ball": 0,
+      "teamPoints": 31,
+      "strikerId": "66069d0c7d9bfc89e22d97a1",
+      "nonStrikerId": "66069d0c7d9bfc89e22d97a3",
+      "currentBowlerId": "66069d0c7d9bfc89e22d97a3"
+    },
+    {
+      "teamId": "660515ff7d9bfc89e22d964b",
+      "score": 33,
+      "wickets": 0,
+      "extras": 1,
+      "players": [
+        {
+          "playerId": "66069d0c7d9bfc89e22d974b",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/57.png",
+          "name": "MS Dhoni",
+          "role": "wicketkeeper",
+          "fantasyPoints": 28,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 24,
+            "balls": 4,
+            "fours": 2,
+            "sixes": 1,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d974c",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/206.png",
+          "name": "Moeen Ali",
+          "role": "allrounder",
+          "fantasyPoints": 25,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 1,
+            "balls": 6,
+            "runs": 22,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d974d",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/91.png",
+          "name": "Deepak Chahar",
+          "role": "bowler",
+          "fantasyPoints": 10,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 8,
+            "balls": 4,
+            "fours": 2,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d974e",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/601.png",
+          "name": "Devon Conway",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d974f",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/539.png",
+          "name": "Tushar Deshpande",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9750",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/211.png",
+          "name": "Shivam Dube",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9751",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/102.png",
+          "name": "Ruturaj Gaikwad",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9752",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/783.png",
+          "name": "Rajvardhan Hangargekar",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9753",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/46.png",
+          "name": "Ravindra Jadeja",
+          "role": "allrounder",
+          "fantasyPoints": 25,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "lefthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 1,
+            "balls": 6,
+            "runs": 8,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9754",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1931.png",
+          "name": "Ajay Mandal",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9755",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/970.png",
+          "name": "Mukesh Choudhary",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        }
+      ],
+      "over": 1,
+      "ball": 2,
+      "teamPoints": 83,
+      "strikerId": "66069d0c7d9bfc89e22d974d",
+      "nonStrikerId": "66069d0c7d9bfc89e22d974b",
+      "currentBowlerId": "66069d0c7d9bfc89e22d9753"
+    }
+  ],
+  "toss": "660515ff7d9bfc89e22d964c",
+  "battingFrist": "660515ff7d9bfc89e22d964c",
+  "currentBatting": "660515ff7d9bfc89e22d964b",
+  "currentBowling": "660515ff7d9bfc89e22d964c",
+  "overs": 2,
+  "innings": 2,
+  "matchCompleted": true,
+  "target": 32,
+  "isOngoing": false,
+  "inningsBreak": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6636391468e4588515ee7167"
+  },
+  "matchId": "663638f868e4588515ee7149",
+  "teams": [
+    {
+      "teamId": "660515ff7d9bfc89e22d964b",
+      "score": 31,
+      "wickets": 1,
+      "extras": 0,
+      "players": [
+        {
+          "playerId": "66069d0c7d9bfc89e22d974b",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/57.png",
+          "name": "MS Dhoni",
+          "role": "wicketkeeper",
+          "fantasyPoints": 2,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 2,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "balls": 6,
+            "runs": 5,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d974c",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/206.png",
+          "name": "Moeen Ali",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d974d",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/91.png",
+          "name": "Deepak Chahar",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d974e",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/601.png",
+          "name": "Devon Conway",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": true
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "balls": 6,
+            "runs": 6,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d974f",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/539.png",
+          "name": "Tushar Deshpande",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9750",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/211.png",
+          "name": "Shivam Dube",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 4,
+            "runs": 14,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9751",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/102.png",
+          "name": "Ruturaj Gaikwad",
+          "role": "batsman",
+          "fantasyPoints": 7,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 6,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9752",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/783.png",
+          "name": "Rajvardhan Hangargekar",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9753",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/46.png",
+          "name": "Ravindra Jadeja",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "lefthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9754",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1931.png",
+          "name": "Ajay Mandal",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "balls": 6,
+            "runs": 9,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9755",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/970.png",
+          "name": "Mukesh Choudhary",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        }
+      ],
+      "over": 2,
+      "ball": 0,
+      "teamPoints": 8,
+      "strikerId": "66069d0c7d9bfc89e22d974b",
+      "nonStrikerId": "66069d0c7d9bfc89e22d9751",
+      "currentBowlerId": "66069d0c7d9bfc89e22d9750"
+    },
+    {
+      "teamId": "660515ff7d9bfc89e22d964d",
+      "score": 34,
+      "wickets": 0,
+      "extras": 0,
+      "players": [
+        {
+          "playerId": "66069d0c7d9bfc89e22d97f1",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/62.png",
+          "name": "Shubman Gill",
+          "role": "batsman",
+          "fantasyPoints": 27,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm offbreak",
+          "batting": {
+            "runs": 23,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 2,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97f2",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/128.png",
+          "name": "David Miller",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "rightarm offbreak",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97f3",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/549.png",
+          "name": "Matthew Wade",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97f4",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/225.png",
+          "name": "Wriddhiman Saha",
+          "role": "wicketkeeper",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97f5",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/3117.png",
+          "name": "BR Sharath",
+          "role": "wicketkeeper",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97f6",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/65.png",
+          "name": "Kane Williamson",
+          "role": "batsman",
+          "fantasyPoints": 36,
+          "credit": "10",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 11,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 1,
+            "balls": 6,
+            "runs": 8,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97f7",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/165.png",
+          "name": "Jayant Yadav",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "right hand bat",
+          "bowling_hand": "right arm offbreak",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97f8",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/120.png",
+          "name": "Rahul Tewatia",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "left arm orthodox",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97f9",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/47.png",
+          "name": "Mohammad Shami",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "right hand bat",
+          "bowling_hand": "right arm fast",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "balls": 6,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97fa",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/536.png",
+          "name": "Kartik Tyagi",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "right hand bat",
+          "bowling_hand": "right arm fast medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97fb",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1016.png",
+          "name": "Sushant Mishra",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "left hand bat",
+          "bowling_hand": "left arm fast medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        }
+      ],
+      "over": 3,
+      "ball": 4,
+      "teamPoints": 59,
+      "strikerId": "66069d0c7d9bfc89e22d97f1",
+      "nonStrikerId": "66069d0c7d9bfc89e22d97f6",
+      "currentBowlerId": "66069d0c7d9bfc89e22d97f6"
+    }
+  ],
+  "toss": "660515ff7d9bfc89e22d964b",
+  "battingFrist": "660515ff7d9bfc89e22d964b",
+  "currentBatting": "660515ff7d9bfc89e22d964d",
+  "currentBowling": "660515ff7d9bfc89e22d964b",
+  "overs": 20,
+  "innings": 2,
+  "matchCompleted": true,
+  "target": 32,
+  "isOngoing": false,
+  "inningsBreak": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66365fdc46037aa32670399b"
+  },
+  "matchId": "66365fb146037aa32670397d",
+  "teams": [
+    {
+      "teamId": "660515ff7d9bfc89e22d9651",
+      "score": 22,
+      "wickets": 0,
+      "extras": 0,
+      "players": [
+        {
+          "playerId": "66069d0c7d9bfc89e22d97b1",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/94.png",
+          "name": "Faf Du Plessis",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "10",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97b2",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/597.png",
+          "name": "Rajat Patidar",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97b3",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/2.png",
+          "name": "Virat Kohli",
+          "role": "batsman",
+          "fantasyPoints": 29,
+          "credit": "10",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 22,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 3,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97b4",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/534.png",
+          "name": "Anuj Rawat",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "lefthand",
+          "bowling_hand": "rightarm offbreak",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "balls": 6,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97b5",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/13.png",
+          "name": "Dinesh Karthik",
+          "role": "wicketkeeper",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "balls": 12,
+            "runs": 6,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97b6",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/598.png",
+          "name": "Suyash S Prabhudessai",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "lefthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97b7",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1007.png",
+          "name": "Akash Deep",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm medium fast",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "balls": 6,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97b8",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/239.png",
+          "name": "Alzarri Joseph",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "right hand bat",
+          "bowling_hand": "right arm fast",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97b9",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/69.png",
+          "name": "Lockie Ferguson",
+          "role": "bowler",
+          "fantasyPoints": 25,
+          "credit": "8",
+          "batting_hand": "right hand bat",
+          "bowling_hand": "right arm fast",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 3,
+            "balls": 18,
+            "runs": 8,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97ba",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/63.png",
+          "name": "Mohammed Siraj",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm fast",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "balls": 12,
+            "runs": 5,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97bb",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/978.png",
+          "name": "Yash Dayal",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "right hand bat",
+          "bowling_hand": "right arm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        }
+      ],
+      "over": 0,
+      "ball": 5,
+      "teamPoints": 47,
+      "strikerId": "66069d0c7d9bfc89e22d97b3",
+      "nonStrikerId": "66069d0c7d9bfc89e22d97b8",
+      "currentBowlerId": "66069d0c7d9bfc89e22d97b9"
+    },
+    {
+      "teamId": "660515ff7d9bfc89e22d964d",
+      "score": 19,
+      "wickets": 1,
+      "extras": 0,
+      "players": [
+        {
+          "playerId": "66069d0c7d9bfc89e22d97f1",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/62.png",
+          "name": "Shubman Gill",
+          "role": "batsman",
+          "fantasyPoints": 5,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm offbreak",
+          "batting": {
+            "runs": 4,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "isDismissed": true
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97f2",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/128.png",
+          "name": "David Miller",
+          "role": "batsman",
+          "fantasyPoints": 10,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "rightarm offbreak",
+          "batting": {
+            "runs": 9,
+            "balls": 28,
+            "fours": 1,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97f3",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/549.png",
+          "name": "Matthew Wade",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97f4",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/225.png",
+          "name": "Wriddhiman Saha",
+          "role": "wicketkeeper",
+          "fantasyPoints": 6,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 6,
+            "balls": 24,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97f5",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/3117.png",
+          "name": "BR Sharath",
+          "role": "wicketkeeper",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97f6",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/65.png",
+          "name": "Kane Williamson",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "10",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97f7",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/165.png",
+          "name": "Jayant Yadav",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "right hand bat",
+          "bowling_hand": "right arm offbreak",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97f8",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/120.png",
+          "name": "Rahul Tewatia",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "left arm orthodox",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97f9",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/47.png",
+          "name": "Mohammad Shami",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "right hand bat",
+          "bowling_hand": "right arm fast",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 5,
+            "runs": 22,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97fa",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/536.png",
+          "name": "Kartik Tyagi",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "right hand bat",
+          "bowling_hand": "right arm fast medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97fb",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1016.png",
+          "name": "Sushant Mishra",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "left hand bat",
+          "bowling_hand": "left arm fast medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        }
+      ],
+      "over": 9,
+      "ball": 0,
+      "teamPoints": 19,
+      "strikerId": "66069d0c7d9bfc89e22d97f2",
+      "nonStrikerId": "66069d0c7d9bfc89e22d97f4",
+      "currentBowlerId": "66069d0c7d9bfc89e22d97f9"
+    }
+  ],
+  "toss": "660515ff7d9bfc89e22d9651",
+  "battingFrist": "660515ff7d9bfc89e22d964d",
+  "currentBatting": "660515ff7d9bfc89e22d9651",
+  "currentBowling": "660515ff7d9bfc89e22d964d",
+  "overs": 9,
+  "innings": 2,
+  "matchCompleted": true,
+  "target": 20,
+  "isOngoing": false,
+  "inningsBreak": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663722c7aba5189e24e54661"
+  },
+  "matchId": "663722b2aba5189e24e54643",
+  "teams": [
+    {
+      "teamId": "660515ff7d9bfc89e22d964c",
+      "score": 0,
+      "wickets": 0,
+      "extras": 0,
+      "players": [
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a1",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/6.png",
+          "name": "Rohit Sharma",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "10",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a2",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/797.png",
+          "name": "Dewald Brevis",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a3",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/174.png",
+          "name": "Suryakumar Yadav",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a4",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/164.png",
+          "name": "Ishan Kishan",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a5",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/993.png",
+          "name": "N Tilak Varma",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "rightarm offbreak",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a6",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/636.png",
+          "name": "Tim David",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a7",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/801.png",
+          "name": "Kwena Maphaka",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm fast medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a8",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/9.png",
+          "name": "Jasprit Bumrah",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "10",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a9",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/149.png",
+          "name": "Piyush Chawla",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "right hand bat",
+          "bowling_hand": "right arm legbreak",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97aa",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1015.png",
+          "name": "Kumar Kartikeya Singh",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97ab",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1045.png",
+          "name": "Akash Madhwal",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        }
+      ],
+      "over": 0,
+      "ball": 0,
+      "teamPoints": 0,
+      "strikerId": "",
+      "nonStrikerId": "",
+      "currentBowlerId": ""
+    },
+    {
+      "teamId": "660515ff7d9bfc89e22d964e",
+      "score": 0,
+      "wickets": 0,
+      "extras": 0,
+      "players": [
+        {
+          "playerId": "66069d0c7d9bfc89e22d9802",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/19.png",
+          "name": "KL Rahul",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "10",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9803",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/200.png",
+          "name": "Devdutt Padikkal",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9804",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/170.png",
+          "name": "Quinton De Kock",
+          "role": "wicketkeeper",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9805",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/136.png",
+          "name": "Nicholas Pooran",
+          "role": "wicketkeeper",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9806",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/86.png",
+          "name": "Ashton Turner",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9807",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/154.png",
+          "name": "Shivam Mavi",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "right hand bat",
+          "bowling_hand": "right arm fast",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9808",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/3105.png",
+          "name": "Shamar Joseph",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "right hand bat",
+          "bowling_hand": "right arm fast",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9809",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/987.png",
+          "name": "Mayank Yadav",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "right hand bat",
+          "bowling_hand": "right arm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d980a",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/541.png",
+          "name": "Mohsin Khan",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "right hand bat",
+          "bowling_hand": "left arm fast medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d980b",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/520.png",
+          "name": "Ravi Bishnoi",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "right hand bat",
+          "bowling_hand": "right arm legbreak",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d980c",
+          "url": "https://www.iplt20.com/assets/images/default-headshot.png",
+          "name": "Matt Henry",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "8",
+          "batting_hand": "right hand bat",
+          "bowling_hand": "right arm fast medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        }
+      ],
+      "over": 0,
+      "ball": 0,
+      "teamPoints": 0,
+      "strikerId": "",
+      "nonStrikerId": "",
+      "currentBowlerId": ""
+    }
+  ],
+  "toss": "660515ff7d9bfc89e22d964c",
+  "battingFrist": "660515ff7d9bfc89e22d964c",
+  "currentBatting": "660515ff7d9bfc89e22d964c",
+  "currentBowling": "660515ff7d9bfc89e22d964e",
+  "overs": 20,
+  "innings": 1,
+  "matchCompleted": false,
+  "target": 0,
+  "isOngoing": false,
+  "inningsBreak": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66372320aba5189e24e54697"
+  },
+  "matchId": "6637230aaba5189e24e54678",
+  "teams": [
+    {
+      "teamId": "660515ff7d9bfc89e22d964b",
+      "score": 22,
+      "wickets": 2,
+      "extras": 0,
+      "players": [
+        {
+          "playerId": "66069d0c7d9bfc89e22d974b",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/57.png",
+          "name": "MS Dhoni",
+          "role": "wicketkeeper",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d974c",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/206.png",
+          "name": "Moeen Ali",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": true
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d974d",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/91.png",
+          "name": "Deepak Chahar",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "balls": 6,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d974e",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/601.png",
+          "name": "Devon Conway",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "balls": 12,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d974f",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/539.png",
+          "name": "Tushar Deshpande",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9750",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/211.png",
+          "name": "Shivam Dube",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9751",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/102.png",
+          "name": "Ruturaj Gaikwad",
+          "role": "batsman",
+          "fantasyPoints": 29,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 22,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 3,
+            "isDismissed": true
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9752",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/783.png",
+          "name": "Rajvardhan Hangargekar",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9753",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/46.png",
+          "name": "Ravindra Jadeja",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "lefthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9754",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1931.png",
+          "name": "Ajay Mandal",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "balls": 6,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9755",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/970.png",
+          "name": "Mukesh Choudhary",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        }
+      ],
+      "over": 4,
+      "ball": 0,
+      "teamPoints": 22,
+      "strikerId": "66069d0c7d9bfc89e22d974e",
+      "nonStrikerId": "66069d0c7d9bfc89e22d974b",
+      "currentBowlerId": "66069d0c7d9bfc89e22d974e"
+    },
+    {
+      "teamId": "660515ff7d9bfc89e22d964c",
+      "score": 0,
+      "wickets": 0,
+      "extras": 0,
+      "players": [
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a1",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/6.png",
+          "name": "Rohit Sharma",
+          "role": "batsman",
+          "fantasyPoints": 50,
+          "credit": "10",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 2,
+            "overs": 1,
+            "balls": 6,
+            "runs": 22,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a2",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/797.png",
+          "name": "Dewald Brevis",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a3",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/174.png",
+          "name": "Suryakumar Yadav",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 12,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "balls": 6,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a4",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/164.png",
+          "name": "Ishan Kishan",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a5",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/993.png",
+          "name": "N Tilak Varma",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "rightarm offbreak",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "balls": 6,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a6",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/636.png",
+          "name": "Tim David",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a7",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/801.png",
+          "name": "Kwena Maphaka",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "rightarm fast medium",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a8",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/9.png",
+          "name": "Jasprit Bumrah",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "10",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "balls": 6,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97a9",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/149.png",
+          "name": "Piyush Chawla",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "right hand bat",
+          "bowling_hand": "right arm legbreak",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97aa",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1015.png",
+          "name": "Kumar Kartikeya Singh",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "lefthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d97ab",
+          "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1045.png",
+          "name": "Akash Madhwal",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "credit": "9",
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        }
+      ],
+      "over": 4,
+      "ball": 0,
+      "teamPoints": 50,
+      "strikerId": "66069d0c7d9bfc89e22d97a2",
+      "nonStrikerId": "66069d0c7d9bfc89e22d97a3",
+      "currentBowlerId": "66069d0c7d9bfc89e22d97a5"
+    }
+  ],
+  "toss": "660515ff7d9bfc89e22d964b",
+  "battingFrist": "660515ff7d9bfc89e22d964b",
+  "currentBatting": "660515ff7d9bfc89e22d964c",
+  "currentBowling": "660515ff7d9bfc89e22d964b",
+  "overs": 4,
+  "innings": 3,
+  "matchCompleted": true,
+  "target": 23,
+  "isOngoing": false,
+  "inningsBreak": true,
+  "__v": 0
+}]

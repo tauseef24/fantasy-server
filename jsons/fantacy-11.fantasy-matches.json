@@ -1,0 +1,248 @@
+[{
+  "_id": {
+    "$oid": "661295dba06e2fdf414cedb6"
+  },
+  "matchNo": 1,
+  "leagueDetails": {
+    "league": "IPL",
+    "leagueId": "66065a0e7d9bfc89e22d96f8"
+  },
+  "sportDetails": {
+    "sport": "Cricket",
+    "sportId": "66064f6e7d9bfc89e22d96e7"
+  },
+  "date": {
+    "$date": "2024-04-08T00:00:00.000Z"
+  },
+  "time": "19:17",
+  "teamA": {
+    "name": "CSK",
+    "teamId": {
+      "$oid": "660515ff7d9bfc89e22d964b"
+    }
+  },
+  "teamB": {
+    "name": "MI",
+    "teamId": {
+      "$oid": "660515ff7d9bfc89e22d964c"
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6615758cb2ae89bfe0aaa85f"
+  },
+  "matchNo": 2,
+  "leagueDetails": {
+    "league": "IPL",
+    "leagueId": "66065a0e7d9bfc89e22d96f8"
+  },
+  "sportDetails": {
+    "sport": "Cricket",
+    "sportId": "66064f6e7d9bfc89e22d96e7"
+  },
+  "date": {
+    "$date": "2024-04-11T00:00:00.000Z"
+  },
+  "time": "22:38",
+  "teamA": {
+    "name": "MI",
+    "teamId": {
+      "$oid": "660515ff7d9bfc89e22d964c"
+    }
+  },
+  "teamB": {
+    "name": "DC",
+    "teamId": {
+      "$oid": "660515ff7d9bfc89e22d9654"
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663059e333c74acc4b97f4a7"
+  },
+  "matchNo": 3,
+  "leagueDetails": {
+    "league": "IPL",
+    "leagueId": "66065a0e7d9bfc89e22d96f8"
+  },
+  "sportDetails": {
+    "sport": "Cricket",
+    "sportId": "66064f6e7d9bfc89e22d96e7"
+  },
+  "date": {
+    "$date": "2024-04-23T00:00:00.000Z"
+  },
+  "time": "09:09",
+  "teamA": {
+    "name": "CSK",
+    "teamId": {
+      "$oid": "660515ff7d9bfc89e22d964b"
+    }
+  },
+  "teamB": {
+    "name": "MI",
+    "teamId": {
+      "$oid": "660515ff7d9bfc89e22d964c"
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663079817b4b4af6a1ac9b78"
+  },
+  "matchNo": 4,
+  "leagueDetails": {
+    "league": "IPL",
+    "leagueId": "66065a0e7d9bfc89e22d96f8"
+  },
+  "sportDetails": {
+    "sport": "Cricket",
+    "sportId": "66064f6e7d9bfc89e22d96e7"
+  },
+  "date": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "time": "20:30",
+  "teamA": {
+    "name": "MI",
+    "teamId": {
+      "$oid": "660515ff7d9bfc89e22d964c"
+    }
+  },
+  "teamB": {
+    "name": "CSK",
+    "teamId": {
+      "$oid": "660515ff7d9bfc89e22d964b"
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663638f868e4588515ee7149"
+  },
+  "matchNo": 5,
+  "leagueDetails": {
+    "league": "IPL",
+    "leagueId": "66065a0e7d9bfc89e22d96f8"
+  },
+  "sportDetails": {
+    "sport": "Cricket",
+    "sportId": "66064f6e7d9bfc89e22d96e7"
+  },
+  "date": {
+    "$date": "2024-05-04T00:00:00.000Z"
+  },
+  "time": "19:02",
+  "teamA": {
+    "name": "CSK",
+    "teamId": {
+      "$oid": "660515ff7d9bfc89e22d964b"
+    }
+  },
+  "teamB": {
+    "name": "GT",
+    "teamId": {
+      "$oid": "660515ff7d9bfc89e22d964d"
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66365fb146037aa32670397d"
+  },
+  "matchNo": 6,
+  "leagueDetails": {
+    "league": "IPL",
+    "leagueId": "66065a0e7d9bfc89e22d96f8"
+  },
+  "sportDetails": {
+    "sport": "Cricket",
+    "sportId": "66064f6e7d9bfc89e22d96e7"
+  },
+  "date": {
+    "$date": "2024-05-04T00:00:00.000Z"
+  },
+  "time": "21:47",
+  "teamA": {
+    "name": "RCB",
+    "teamId": {
+      "$oid": "660515ff7d9bfc89e22d9651"
+    }
+  },
+  "teamB": {
+    "name": "GT",
+    "teamId": {
+      "$oid": "660515ff7d9bfc89e22d964d"
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663722b2aba5189e24e54643"
+  },
+  "matchNo": 7,
+  "leagueDetails": {
+    "league": "IPL",
+    "leagueId": "66065a0e7d9bfc89e22d96f8"
+  },
+  "sportDetails": {
+    "sport": "Cricket",
+    "sportId": "66064f6e7d9bfc89e22d96e7"
+  },
+  "date": {
+    "$date": "2024-05-14T00:00:00.000Z"
+  },
+  "time": "15:39",
+  "teamA": {
+    "name": "MI",
+    "teamId": {
+      "$oid": "660515ff7d9bfc89e22d964c"
+    }
+  },
+  "teamB": {
+    "name": "LSG",
+    "teamId": {
+      "$oid": "660515ff7d9bfc89e22d964e"
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6637230aaba5189e24e54678"
+  },
+  "matchNo": 8,
+  "leagueDetails": {
+    "league": "IPL",
+    "leagueId": "66065a0e7d9bfc89e22d96f8"
+  },
+  "sportDetails": {
+    "sport": "Cricket",
+    "sportId": "66064f6e7d9bfc89e22d96e7"
+  },
+  "date": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "time": "11:43",
+  "teamA": {
+    "name": "CSK",
+    "teamId": {
+      "$oid": "660515ff7d9bfc89e22d964b"
+    }
+  },
+  "teamB": {
+    "name": "MI",
+    "teamId": {
+      "$oid": "660515ff7d9bfc89e22d964c"
+    }
+  },
+  "__v": 0
+}]

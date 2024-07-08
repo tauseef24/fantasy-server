@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "66129c620598a931499f24f2"
+  },
+  "name": "khaism",
+  "email": "syedtahaseen123@gmail.com",
+  "role": "user",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$oeEcoIrSJU0AiJlcCHjAQA$4iwRBFU8Tb2Y2ghJvOnw97Zzkt+yf0/rHNU954h5s/I",
+  "wallet": 100,
+  "skillScore": 0,
+  "createdAt": {
+    "$date": "2024-04-07T13:15:14.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661576bb01ec1c3f53890471"
+  },
+  "name": "venkat",
+  "email": "venkat@gmail.com",
+  "role": "user",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$B/h1i8cPyjopnfzKULF0gw$/OcW/oeK46MmpsnTrshIBxQCDE8rxg8L5otTFHmMPHs",
+  "wallet": 100,
+  "skillScore": 0,
+  "createdAt": {
+    "$date": "2024-04-09T17:11:23.637Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ff21e5587d4aa68710f67"
+  },
+  "name": "khasim",
+  "email": "khasim@gmail.com",
+  "role": "user",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$eFej7c7HkA5kw83NPBcWCQ$TIXK3GyDPD6XnStA83gfVjdPpfUBbC+4avcrA8/Gf0s",
+  "wallet": 190,
+  "skillScore": 0,
+  "createdAt": {
+    "$date": "2024-04-29T19:16:46.704Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663639d368e4588515ee71aa"
+  },
+  "name": "dhoni",
+  "email": "dhoni@gmail.com",
+  "role": "user",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$A78nLXsxXl8WJPXn0iQcpQ$3KqUOkAVa5ax1/wMJSfDfd1rQiZvCrfFL0TvzHyZJDk",
+  "wallet": 330,
+  "skillScore": 0,
+  "createdAt": {
+    "$date": "2024-05-04T13:36:19.759Z"
+  },
+  "__v": 0
+}]

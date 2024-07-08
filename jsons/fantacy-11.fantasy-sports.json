@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "66064f6e7d9bfc89e22d96e7"
+  },
+  "sport": "Cricket"
+},
+{
+  "_id": {
+    "$oid": "66064fcd7d9bfc89e22d96ec"
+  },
+  "sport": "Football"
+},
+{
+  "_id": {
+    "$oid": "66064fdc7d9bfc89e22d96ed"
+  },
+  "sport": "Volleyball"
+},
+{
+  "_id": {
+    "$oid": "66064ff67d9bfc89e22d96ee"
+  },
+  "sport": "Basketball"
+}]

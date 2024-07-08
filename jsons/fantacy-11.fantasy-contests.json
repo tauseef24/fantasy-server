@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "660d25f066085cc0f0710e93"
+  },
+  "name": "Grand league",
+  "leagueId": "66065a0e7d9bfc89e22d96f8",
+  "entryPrize": 50,
+  "poolMoney": 10000,
+  "count": 200
+},
+{
+  "_id": {
+    "$oid": "660d97a866085cc0f0710ec8"
+  },
+  "name": "Mini league",
+  "leagueId": "66065a0e7d9bfc89e22d96f8",
+  "entryPrize": 50,
+  "poolMoney": 500,
+  "count": 10
+}]

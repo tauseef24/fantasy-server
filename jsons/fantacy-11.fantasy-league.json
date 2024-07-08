@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "66065a0e7d9bfc89e22d96f8"
+  },
+  "league": "IPL",
+  "sport": "Cricket",
+  "sportId": "66064f6e7d9bfc89e22d96e7"
+},
+{
+  "_id": {
+    "$oid": "66065a547d9bfc89e22d96fd"
+  },
+  "league": "Premier League",
+  "sport": "Football",
+  "sportId": "66064fcd7d9bfc89e22d96ec"
+},
+{
+  "_id": {
+    "$oid": "66065a867d9bfc89e22d96ff"
+  },
+  "league": "WPL",
+  "sport": "Cricket",
+  "sportId": "66064f6e7d9bfc89e22d96e7"
+}]

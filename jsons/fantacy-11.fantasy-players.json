@@ -1,0 +1,1760 @@
+[{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d974b"
+  },
+  "name": "MS Dhoni",
+  "role": "wicketkeeper",
+  "batting": "righthand",
+  "bowling": "righthand",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/57.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d974c"
+  },
+  "name": "Moeen Ali",
+  "role": "allrounder",
+  "batting": "righthand",
+  "bowling": "righthand",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/206.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d974d"
+  },
+  "name": "Deepak Chahar",
+  "role": "bowler",
+  "batting": "righthand",
+  "bowling": "righthand",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/91.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d974e"
+  },
+  "name": "Devon Conway",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "righthand",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/601.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d974f"
+  },
+  "name": "Tushar Deshpande",
+  "role": "bowler",
+  "batting": "righthand",
+  "bowling": "righthand",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/539.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9750"
+  },
+  "name": "Shivam Dube",
+  "role": "allrounder",
+  "batting": "lefthand",
+  "bowling": "righthand",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/211.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9751"
+  },
+  "name": "Ruturaj Gaikwad",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "righthand",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/102.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9752"
+  },
+  "name": "Rajvardhan Hangargekar",
+  "role": "bowler",
+  "batting": "righthand",
+  "bowling": "righthand",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/783.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9753"
+  },
+  "name": "Ravindra Jadeja",
+  "role": "allrounder",
+  "batting": "lefthand",
+  "bowling": "lefthand",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/46.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9754"
+  },
+  "name": "Ajay Mandal",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "righthand",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1931.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9755"
+  },
+  "name": "Mukesh Choudhary",
+  "role": "bowler",
+  "batting": "righthand",
+  "bowling": "righthand",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/970.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9756"
+  },
+  "name": "Matheesha Pathirana",
+  "role": "bowler",
+  "batting": "righthand",
+  "bowling": "righthand",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1014.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9757"
+  },
+  "name": "Ajinkya Rahane",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "righthand",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/44.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9758"
+  },
+  "name": "Shaik Rasheed",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "righthand",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/778.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9759"
+  },
+  "name": "Mitchell Santner",
+  "role": "allrounder",
+  "batting": "righthand",
+  "bowling": "righthand",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/75.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d975a"
+  },
+  "name": "Simarjeet Singh",
+  "role": "allrounder",
+  "batting": "righthand",
+  "bowling": "righthand",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/672.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97a1"
+  },
+  "name": "Rohit Sharma",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "righthand",
+  "credit": 10,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/6.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97a2"
+  },
+  "name": "Dewald Brevis",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "rightarm medium",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/797.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97a3"
+  },
+  "name": "Suryakumar Yadav",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "righthand",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/174.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97a4"
+  },
+  "name": "Ishan Kishan",
+  "role": "batsman",
+  "batting": "lefthand",
+  "bowling": "righthand",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/164.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97a5"
+  },
+  "name": "N Tilak Varma",
+  "role": "batsman",
+  "batting": "lefthand",
+  "bowling": "rightarm offbreak",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/993.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97a6"
+  },
+  "name": "Tim David",
+  "role": "allrounder",
+  "batting": "righthand",
+  "bowling": "rightarm medium",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/636.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97a7"
+  },
+  "name": "Kwena Maphaka",
+  "role": "bowler",
+  "batting": "righthand",
+  "bowling": "rightarm fast medium",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/801.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97a8"
+  },
+  "name": "Jasprit Bumrah",
+  "role": "bowler",
+  "batting": "righthand",
+  "bowling": "righthand",
+  "credit": 10,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/9.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97a9"
+  },
+  "name": "Piyush Chawla",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm legbreak",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/149.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97aa"
+  },
+  "name": "Kumar Kartikeya Singh",
+  "role": "batsman",
+  "batting": "lefthand",
+  "bowling": "righthand",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1015.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97ab"
+  },
+  "name": "Akash Madhwal",
+  "role": "bowler",
+  "batting": "righthand",
+  "bowling": "righthand",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1045.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97ac"
+  },
+  "name": "Luke Wood",
+  "role": "bowler",
+  "batting": "lefthand",
+  "bowling": "lefthand",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/3116.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97ad"
+  },
+  "name": "Hardik Pandya",
+  "role": "allrounder",
+  "batting": "righthand",
+  "bowling": "righthand",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/54.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97ae"
+  },
+  "name": "Arjun Tendulkar",
+  "role": "allrounder",
+  "batting": "lefthand",
+  "bowling": "lefthand",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/585.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97af"
+  },
+  "name": "Mohammad Nabi",
+  "role": "allrounder",
+  "batting": "righthand",
+  "bowling": "rightarm offbreak",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/217.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97b0"
+  },
+  "name": "Romario Shepherd",
+  "role": "allrounder",
+  "batting": "righthand",
+  "bowling": "rightarm fast",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/371.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97b1"
+  },
+  "name": "Faf Du Plessis",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "righthand",
+  "credit": 10,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/94.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97b2"
+  },
+  "name": "Rajat Patidar",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "rightarm medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/597.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97b3"
+  },
+  "name": "Virat Kohli",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "rightarm medium",
+  "credit": 10,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/2.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97b4"
+  },
+  "name": "Anuj Rawat",
+  "role": "batsman",
+  "batting": "lefthand",
+  "bowling": "rightarm offbreak",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/534.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97b5"
+  },
+  "name": "Dinesh Karthik",
+  "role": "wicketkeeper",
+  "batting": "righthand",
+  "bowling": "righthand",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/13.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97b6"
+  },
+  "name": "Suyash S Prabhudessai",
+  "role": "batsman",
+  "batting": "lefthand",
+  "bowling": "rightarm medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/598.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97b7"
+  },
+  "name": "Akash Deep",
+  "role": "bowler",
+  "batting": "righthand",
+  "bowling": "rightarm medium fast",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1007.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97b8"
+  },
+  "name": "Alzarri Joseph",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm fast",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/239.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97b9"
+  },
+  "name": "Lockie Ferguson",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm fast",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/69.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97ba"
+  },
+  "name": "Mohammed Siraj",
+  "role": "bowler",
+  "batting": "righthand",
+  "bowling": "rightarm fast",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/63.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97bb"
+  },
+  "name": "Yash Dayal",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/978.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97bc"
+  },
+  "name": "Tom Curran",
+  "role": "allrounder",
+  "batting": "lefthand",
+  "bowling": "rightarm fast medium",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/309.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97bd"
+  },
+  "name": "Glenn Maxwell",
+  "role": "allrounder",
+  "batting": "righthand",
+  "bowling": "rightarm offbreak",
+  "credit": 10,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/28.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97be"
+  },
+  "name": "Mahipal Lomror",
+  "role": "allrounder",
+  "batting": "lefthand",
+  "bowling": "lefthand",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/184.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97bf"
+  },
+  "name": "Karn Sharma",
+  "role": "allrounder",
+  "batting": "righthand",
+  "bowling": "rightarm legbreak",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/98.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97c0"
+  },
+  "name": "Cameron Green",
+  "role": "allrounder",
+  "batting": "righthand",
+  "bowling": "rightarm medium fast",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/550.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97c1"
+  },
+  "name": "Abdul Samad",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "rightarm legbreak",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/525.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97c2"
+  },
+  "name": "Aiden Markram",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "rightarm medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/287.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97c3"
+  },
+  "name": "Rahul Tripathi",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "rightarm medium",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/188.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97c4"
+  },
+  "name": "Glenn Phillips",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "rightarm offbreak",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/635.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97c5"
+  },
+  "name": "Mayank Agarwal",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "rightarm medium",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/55.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97c6"
+  },
+  "name": "Heinrich Klaasen",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "rightarm medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/202.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97c7"
+  },
+  "name": "Travis Head",
+  "role": "batsman",
+  "batting": "lefthand",
+  "bowling": "rightarm offbreak",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/37.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97c8"
+  },
+  "name": "Pat Cummins",
+  "role": "allrounder",
+  "batting": "lefthand",
+  "bowling": "rightarm fast",
+  "credit": 10,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/33.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97c9"
+  },
+  "name": "Akash Singh",
+  "role": "bowler",
+  "batting": "left hand bat",
+  "bowling": "left arm medium fast",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/535.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97ca"
+  },
+  "name": "Shabaz Ahamad",
+  "role": "bowler",
+  "batting": "left hand bat",
+  "bowling": "left arm orthodox",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/523.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97cb"
+  },
+  "name": "Bhuvaneshwar Kumar",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm medium",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/15.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97cc"
+  },
+  "name": "Fazalhaq Farooqi",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "left arm fast medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1011.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97cd"
+  },
+  "name": "Jaydev Unadkat",
+  "role": "bowler",
+  "batting": "left hand bat",
+  "bowling": "left arm medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/180.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97ce"
+  },
+  "name": "Umran Malik",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm fast",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/637.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97cf"
+  },
+  "name": "Abhishek Sharma",
+  "role": "allrounder",
+  "batting": "lefthand",
+  "bowling": "lefthand",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/212.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97d0"
+  },
+  "name": "Washington Sundar",
+  "role": "allrounder",
+  "batting": "righthand",
+  "bowling": "rightarm offbreak",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/20.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97d1"
+  },
+  "name": "Shreyas Iyer",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "rightarm legbreak",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/12.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97d2"
+  },
+  "name": "Rinku Singh",
+  "role": "batsman",
+  "batting": "lefthand",
+  "bowling": "rightarm offbreak",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/152.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97d3"
+  },
+  "name": "Rahmanullah Gurbaz",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "rightarm medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/641.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97d4"
+  },
+  "name": "Nitish Rana",
+  "role": "batsman",
+  "batting": "lefthand",
+  "bowling": "lefthand",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/148.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97d5"
+  },
+  "name": "Sherfane Rutherford",
+  "role": "batsman",
+  "batting": "lefthand",
+  "bowling": "rightarm medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/122.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97d6"
+  },
+  "name": "Phil Salt",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "rightarm medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1220.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97d7"
+  },
+  "name": "Suyash Sharma",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "rightarm medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1932.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97d8"
+  },
+  "name": "Mitchell Starc",
+  "role": "bowler",
+  "batting": "left hand bat",
+  "bowling": "left arm fast",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/31.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97d9"
+  },
+  "name": "Dushmantha Chameera",
+  "role": "bowler",
+  "batting": "righthand",
+  "bowling": "right arm fast",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/608.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97da"
+  },
+  "name": "Sakib Hussain",
+  "role": "bowler",
+  "batting": "left hand bat",
+  "bowling": "left arm fast medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/3104.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97db"
+  },
+  "name": "Harshit Rana",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm fast",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1013.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97dc"
+  },
+  "name": "Sunil Narine",
+  "role": "allrounder",
+  "batting": "lefthand",
+  "bowling": "rightarm offbreak",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/156.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97dd"
+  },
+  "name": "Varun Chakaravarthy",
+  "role": "allrounder",
+  "batting": "right hand bat",
+  "bowling": "right arm legbreak",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/140.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97de"
+  },
+  "name": "Anukul Roy",
+  "role": "allrounder",
+  "batting": "left hand bat",
+  "bowling": "left arm orthodox",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/160.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97df"
+  },
+  "name": "Ramandeep Singh",
+  "role": "allrounder",
+  "batting": "right hand bat",
+  "bowling": "right arm medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/991.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97e0"
+  },
+  "name": "Andre Russell",
+  "role": "allrounder",
+  "batting": "righthand",
+  "bowling": "rightarm fast",
+  "credit": 10,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/141.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97e1"
+  },
+  "name": "Rishabh Pant",
+  "role": "wicketkeeper",
+  "batting": "lefthand",
+  "bowling": "rightarm offbreak",
+  "credit": 10,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/18.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97e2"
+  },
+  "name": "David Warner",
+  "role": "batsman",
+  "batting": "lefthand",
+  "bowling": "rightarm legbreak",
+  "credit": 10,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/214.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97e3"
+  },
+  "name": "Prithvi Shaw",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "rightarm offbreak",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/51.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97e4"
+  },
+  "name": "Yash Dhull",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "rightarm medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/777.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97e5"
+  },
+  "name": "Shai Hope",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "rightarm medium",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/268.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97e6"
+  },
+  "name": "Swastik Chhikara",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "rightarm medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/3102.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97e7"
+  },
+  "name": "Pravin Dubey",
+  "role": "allrounder",
+  "batting": "righthand",
+  "bowling": "rightarm legbreak googly",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/548.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97e8"
+  },
+  "name": "Vicky Ostwal",
+  "role": "allrounder",
+  "batting": "lefthand",
+  "bowling": "left arm medium fast",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/786.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97e9"
+  },
+  "name": "Anrich Nortje",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm fast",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/142.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97ea"
+  },
+  "name": "Kuldeep Yadav",
+  "role": "bowler",
+  "batting": "lefthand",
+  "bowling": "lefthand chinaman",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/14.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97eb"
+  },
+  "name": "Jake Fraser-McGurk",
+  "role": "bowler",
+  "batting": "righthand",
+  "bowling": "right arm legbreak",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/3115.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97ec"
+  },
+  "name": "Khaleel Ahmed",
+  "role": "bowler",
+  "batting": "left hand bat",
+  "bowling": "left arm fast",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/8.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97ed"
+  },
+  "name": "Ishant Sharma",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm fast",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/50.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97ee"
+  },
+  "name": "Axar Patel",
+  "role": "allrounder",
+  "batting": "left hand bat",
+  "bowling": "left arm orthodox",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/7110.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97ef"
+  },
+  "name": "Lalit Yadav",
+  "role": "allrounder",
+  "batting": "right hand bat",
+  "bowling": "right arm offbreak",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/538.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97f0"
+  },
+  "name": "Mitchell Marsh",
+  "role": "allrounder",
+  "batting": "righthand",
+  "bowling": "rightarm fast medium",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/40.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97f1"
+  },
+  "name": "Shubman Gill",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "rightarm offbreak",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/62.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97f2"
+  },
+  "name": "David Miller",
+  "role": "batsman",
+  "batting": "lefthand",
+  "bowling": "rightarm offbreak",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/128.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97f3"
+  },
+  "name": "Matthew Wade",
+  "role": "batsman",
+  "batting": "lefthand",
+  "bowling": "rightarm medium",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/549.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97f4"
+  },
+  "name": "Wriddhiman Saha",
+  "role": "wicketkeeper",
+  "batting": "righthand",
+  "bowling": "rightarm medium",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/225.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97f5"
+  },
+  "name": "BR Sharath",
+  "role": "wicketkeeper",
+  "batting": "righthand",
+  "bowling": "rightarm medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/3117.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97f6"
+  },
+  "name": "Kane Williamson",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "rightarm medium",
+  "credit": 10,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/65.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97f7"
+  },
+  "name": "Jayant Yadav",
+  "role": "allrounder",
+  "batting": "right hand bat",
+  "bowling": "right arm offbreak",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/165.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97f8"
+  },
+  "name": "Rahul Tewatia",
+  "role": "allrounder",
+  "batting": "lefthand",
+  "bowling": "left arm orthodox",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/120.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97f9"
+  },
+  "name": "Mohammad Shami",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm fast",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/47.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97fa"
+  },
+  "name": "Kartik Tyagi",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm fast medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/536.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97fb"
+  },
+  "name": "Sushant Mishra",
+  "role": "bowler",
+  "batting": "left hand bat",
+  "bowling": "left arm fast medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1016.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97fc"
+  },
+  "name": "Spencer Johnson",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm fast",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/2518.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97fd"
+  },
+  "name": "Umesh Yadav",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm fast",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/21.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97fe"
+  },
+  "name": "Rashid Khan",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm legbreak googly",
+  "credit": 10,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/218.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d97ff"
+  },
+  "name": "Abhinav Manohar",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm fast medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/974.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9800"
+  },
+  "name": "B Sai Sudharsan",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/976.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9802"
+  },
+  "name": "KL Rahul",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "righthand",
+  "credit": 10,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/19.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9803"
+  },
+  "name": "Devdutt Padikkal",
+  "role": "batsman",
+  "batting": "lefthand",
+  "bowling": "rightarm medium",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/200.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9804"
+  },
+  "name": "Quinton De Kock",
+  "role": "wicketkeeper",
+  "batting": "lefthand",
+  "bowling": "rightarm medium",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/170.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9805"
+  },
+  "name": "Nicholas Pooran",
+  "role": "wicketkeeper",
+  "batting": "lefthand",
+  "bowling": "rightarm medium",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/136.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9806"
+  },
+  "name": "Ashton Turner",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "rightarm medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/86.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9807"
+  },
+  "name": "Shivam Mavi",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm fast",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/154.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9808"
+  },
+  "name": "Shamar Joseph",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm fast",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/3105.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9809"
+  },
+  "name": "Mayank Yadav",
+  "role": "batsman",
+  "batting": "right hand bat",
+  "bowling": "right arm medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/987.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d980a"
+  },
+  "name": "Mohsin Khan",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "left arm fast medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/541.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d980b"
+  },
+  "name": "Ravi Bishnoi",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm legbreak",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/520.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d980c"
+  },
+  "name": "Matt Henry",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm fast medium",
+  "credit": 8,
+  "url": "https://www.iplt20.com/assets/images/default-headshot.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d980d"
+  },
+  "name": "Marcus Stoinis",
+  "role": "allrounder",
+  "batting": "righthand",
+  "bowling": "rightarm medium fast",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/23.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d980e"
+  },
+  "name": "Deepak Hooda",
+  "role": "allrounder",
+  "batting": "righthand",
+  "bowling": "rightarm offbreak",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/215.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d980f"
+  },
+  "name": "Krishnappa Gowtham",
+  "role": "allrounder",
+  "batting": "righthand",
+  "bowling": "rightarm offbreak",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/179.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9810"
+  },
+  "name": "Krunal Pandya",
+  "role": "allrounder",
+  "batting": "lefthand",
+  "bowling": "leftarm orthodox",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/17.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9811"
+  },
+  "name": "Kyle Mayers",
+  "role": "allrounder",
+  "batting": "lefthand",
+  "bowling": "rightarm medium fast",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/726.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9812"
+  },
+  "name": "Shikhar Dhawan",
+  "role": "batsman",
+  "batting": "lefthand",
+  "bowling": "rightarm offbreak",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/11.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9813"
+  },
+  "name": "Jitesh Sharma",
+  "role": "wicketkeeper",
+  "batting": "righthand",
+  "bowling": "rightarm medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1000.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9814"
+  },
+  "name": "Jonny Bairstow",
+  "role": "wicketkeeper",
+  "batting": "righthand",
+  "bowling": "rightarm medium",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/216.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9815"
+  },
+  "name": "Prabhsimran Singh",
+  "role": "wicketkeeper",
+  "batting": "righthand",
+  "bowling": "rightarm medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/137.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9816"
+  },
+  "name": "Liam Livingstone",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "rightarm medium",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/183.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9817"
+  },
+  "name": "Harpreet Bhatia",
+  "role": "batsman",
+  "batting": "lefthand",
+  "bowling": "rightarm offbreak",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1934.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9818"
+  },
+  "name": "Prince Choudhary",
+  "role": "batsman",
+  "batting": "lefthand",
+  "bowling": "leftarm orthodox",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/3111.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9819"
+  },
+  "name": "Harpreet Brar",
+  "role": "allrounder",
+  "batting": "lefthand",
+  "bowling": "leftarm orthodox",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/130.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d981a"
+  },
+  "name": "Arshdeep Singh",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "left arm medium fast",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/125.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d981b"
+  },
+  "name": "Kagiso Rabada",
+  "role": "bowler",
+  "batting": "left hand bat",
+  "bowling": "right arm fast",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/116.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d981c"
+  },
+  "name": "Nathan Ellis",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm fast medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/633.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d981d"
+  },
+  "name": "Rahul Chahar",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm legbreak",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/171.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d981e"
+  },
+  "name": "Tanay Thyagarajann",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm medium fast",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1491.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d981f"
+  },
+  "name": "Atharva Taide",
+  "role": "allrounder",
+  "batting": "lefthand",
+  "bowling": "left arm orthodox",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1001.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9820"
+  },
+  "name": "Rishi Dhawan",
+  "role": "allrounder",
+  "batting": "righthand",
+  "bowling": "rightarm medium fast",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/996.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9821"
+  },
+  "name": "Sam Curran",
+  "role": "allrounder",
+  "batting": "lefthand",
+  "bowling": "left arm medium fast",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/138.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9822"
+  },
+  "name": "Sanju Samson",
+  "role": "batsman",
+  "batting": "righthand",
+  "bowling": "rightarm offbreak",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/190.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9823"
+  },
+  "name": "Jos Butler",
+  "role": "wicketkeeper",
+  "batting": "righthand",
+  "bowling": "rightarm medium",
+  "credit": 10,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/182.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9824"
+  },
+  "name": "Shimron Hetmyer",
+  "role": "batsman",
+  "batting": "lefthand",
+  "bowling": "rightarm medium fast",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/210.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9825"
+  },
+  "name": "Yashasvi Jaiswal",
+  "role": "batsman",
+  "batting": "lefthand",
+  "bowling": "rightarm medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/533.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9826"
+  },
+  "name": "Dhruv Jurel",
+  "role": "wicketkeeper",
+  "batting": "righthand",
+  "bowling": "rightarm medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1004.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9827"
+  },
+  "name": "Riyan Parag",
+  "role": "allrounder",
+  "batting": "righthand",
+  "bowling": "rightarm offbreak",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/189.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9828"
+  },
+  "name": "Kunal Rathore",
+  "role": "allrounder",
+  "batting": "lefthand",
+  "bowling": "rightarm medium fast",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1540.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9829"
+  },
+  "name": "Ayesh Khan",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm fast medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/109.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d982a"
+  },
+  "name": "Kuldeep Sen",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "left arm fast medium",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1005.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d982b"
+  },
+  "name": "Yuzvendra Chahal",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm legbreak",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/10.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d982c"
+  },
+  "name": "Sandeep Sharma",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm medium fast",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/220.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d982d"
+  },
+  "name": "Trent Boult",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "left arm fast medium",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/66.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d982e"
+  },
+  "name": "Ravichandran Ashwin",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm offbreak",
+  "credit": 9,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/45.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d982f"
+  },
+  "name": "Tanush Kotian",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm fast",
+  "credit": 8,
+  "url": "https://www.iplt20.com/assets/images/default-headshot.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9830"
+  },
+  "name": "Abid Mushtaq",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm fast",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1591.png"
+},
+{
+  "_id": {
+    "$oid": "66069d0c7d9bfc89e22d9831"
+  },
+  "name": "Navdeep Saini",
+  "role": "bowler",
+  "batting": "right hand bat",
+  "bowling": "right arm fast",
+  "credit": 8,
+  "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/207.png"
+}]

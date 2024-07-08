@@ -1,0 +1,780 @@
+[{
+  "_id": {
+    "$oid": "6612f0777665330e543cecfd"
+  },
+  "userId": "66129c620598a931499f24f2",
+  "matchId": "661295dba06e2fdf414cedb6",
+  "team": [
+    {
+      "playerId": "66069d0c7d9bfc89e22d974b",
+      "playerName": "MS Dhoni",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/57.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974e",
+      "playerName": "Devon Conway",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/601.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9751",
+      "playerName": "Ruturaj Gaikwad",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/102.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9754",
+      "playerName": "Ajay Mandal",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1931.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a1",
+      "playerName": "Rohit Sharma",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/6.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974c",
+      "playerName": "Moeen Ali",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/206.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9750",
+      "playerName": "Shivam Dube",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/211.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9753",
+      "playerName": "Ravindra Jadeja",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/46.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974d",
+      "playerName": "Deepak Chahar",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/91.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974f",
+      "playerName": "Tushar Deshpande",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/539.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9752",
+      "playerName": "Rajvardhan Hangargekar",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/783.png"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66305a58fbc173c21295d3cb"
+  },
+  "userId": "662ff21e5587d4aa68710f67",
+  "matchId": "663059e333c74acc4b97f4a7",
+  "team": [
+    {
+      "playerId": "66069d0c7d9bfc89e22d974b",
+      "playerName": "MS Dhoni",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/57.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974e",
+      "playerName": "Devon Conway",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/601.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9751",
+      "playerName": "Ruturaj Gaikwad",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/102.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9754",
+      "playerName": "Ajay Mandal",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1931.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a2",
+      "playerName": "Dewald Brevis",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/797.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974c",
+      "playerName": "Moeen Ali",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/206.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9750",
+      "playerName": "Shivam Dube",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/211.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9753",
+      "playerName": "Ravindra Jadeja",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/46.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974d",
+      "playerName": "Deepak Chahar",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/91.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974f",
+      "playerName": "Tushar Deshpande",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/539.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a7",
+      "playerName": "Kwena Maphaka",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/801.png"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663061577b4b4af6a1ac9ab9"
+  },
+  "userId": "661576bb01ec1c3f53890471",
+  "matchId": "663059e333c74acc4b97f4a7",
+  "team": [
+    {
+      "playerId": "66069d0c7d9bfc89e22d974b",
+      "playerName": "MS Dhoni",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/57.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974e",
+      "playerName": "Devon Conway",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/601.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9751",
+      "playerName": "Ruturaj Gaikwad",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/102.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9754",
+      "playerName": "Ajay Mandal",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1931.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a1",
+      "playerName": "Rohit Sharma",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/6.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974c",
+      "playerName": "Moeen Ali",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/206.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9750",
+      "playerName": "Shivam Dube",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/211.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9753",
+      "playerName": "Ravindra Jadeja",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/46.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974d",
+      "playerName": "Deepak Chahar",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/91.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974f",
+      "playerName": "Tushar Deshpande",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/539.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9752",
+      "playerName": "Rajvardhan Hangargekar",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/783.png"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66307a557b4b4af6a1ac9ba0"
+  },
+  "userId": "662ff21e5587d4aa68710f67",
+  "matchId": "663079817b4b4af6a1ac9b78",
+  "team": [
+    {
+      "playerId": "66069d0c7d9bfc89e22d974b",
+      "playerName": "MS Dhoni",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/57.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a1",
+      "playerName": "Rohit Sharma",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/6.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a3",
+      "playerName": "Suryakumar Yadav",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/174.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9751",
+      "playerName": "Ruturaj Gaikwad",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/102.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a6",
+      "playerName": "Tim David",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/636.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9753",
+      "playerName": "Ravindra Jadeja",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/46.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a7",
+      "playerName": "Kwena Maphaka",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/801.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a9",
+      "playerName": "Piyush Chawla",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/149.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9752",
+      "playerName": "Rajvardhan Hangargekar",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/783.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9755",
+      "playerName": "Mukesh Choudhary",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/970.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974c",
+      "playerName": "Moeen Ali",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/206.png"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66307b297b4b4af6a1ac9bdd"
+  },
+  "userId": "661576bb01ec1c3f53890471",
+  "matchId": "663079817b4b4af6a1ac9b78",
+  "team": [
+    {
+      "playerId": "66069d0c7d9bfc89e22d974b",
+      "playerName": "MS Dhoni",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/57.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a1",
+      "playerName": "Rohit Sharma",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/6.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a2",
+      "playerName": "Dewald Brevis",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/797.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974e",
+      "playerName": "Devon Conway",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/601.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9751",
+      "playerName": "Ruturaj Gaikwad",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/102.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a6",
+      "playerName": "Tim David",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/636.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974c",
+      "playerName": "Moeen Ali",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/206.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a7",
+      "playerName": "Kwena Maphaka",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/801.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9755",
+      "playerName": "Mukesh Choudhary",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/970.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9752",
+      "playerName": "Rajvardhan Hangargekar",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/783.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97ab",
+      "playerName": "Akash Madhwal",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1045.png"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663632b22d17fe24b3e6fddc"
+  },
+  "userId": "662ff21e5587d4aa68710f67",
+  "matchId": "661295dba06e2fdf414cedb6",
+  "team": [
+    {
+      "playerId": "66069d0c7d9bfc89e22d974b",
+      "playerName": "MS Dhoni",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/57.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974e",
+      "playerName": "Devon Conway",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/601.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97aa",
+      "playerName": "Kumar Kartikeya Singh",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1015.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a5",
+      "playerName": "N Tilak Varma",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/993.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a3",
+      "playerName": "Suryakumar Yadav",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/174.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a2",
+      "playerName": "Dewald Brevis",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/797.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a6",
+      "playerName": "Tim David",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/636.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9753",
+      "playerName": "Ravindra Jadeja",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/46.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974d",
+      "playerName": "Deepak Chahar",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/91.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974f",
+      "playerName": "Tushar Deshpande",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/539.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a8",
+      "playerName": "Jasprit Bumrah",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/9.png"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6636396668e4588515ee7175"
+  },
+  "userId": "662ff21e5587d4aa68710f67",
+  "matchId": "663638f868e4588515ee7149",
+  "team": [
+    {
+      "playerId": "66069d0c7d9bfc89e22d974b",
+      "playerName": "MS Dhoni",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/57.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97f5",
+      "playerName": "BR Sharath",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/3117.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974e",
+      "playerName": "Devon Conway",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/601.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97f3",
+      "playerName": "Matthew Wade",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/549.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97f2",
+      "playerName": "David Miller",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/128.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9751",
+      "playerName": "Ruturaj Gaikwad",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/102.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974c",
+      "playerName": "Moeen Ali",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/206.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97f7",
+      "playerName": "Jayant Yadav",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/165.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974d",
+      "playerName": "Deepak Chahar",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/91.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974f",
+      "playerName": "Tushar Deshpande",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/539.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97fa",
+      "playerName": "Kartik Tyagi",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/536.png"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66363a4168e4588515ee71b1"
+  },
+  "userId": "663639d368e4588515ee71aa",
+  "matchId": "663638f868e4588515ee7149",
+  "team": [
+    {
+      "playerId": "66069d0c7d9bfc89e22d974b",
+      "playerName": "MS Dhoni",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/57.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97f5",
+      "playerName": "BR Sharath",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/3117.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974e",
+      "playerName": "Devon Conway",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/601.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9751",
+      "playerName": "Ruturaj Gaikwad",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/102.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97f6",
+      "playerName": "Kane Williamson",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/65.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974c",
+      "playerName": "Moeen Ali",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/206.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97f7",
+      "playerName": "Jayant Yadav",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/165.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974d",
+      "playerName": "Deepak Chahar",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/91.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974f",
+      "playerName": "Tushar Deshpande",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/539.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97fa",
+      "playerName": "Kartik Tyagi",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/536.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97fb",
+      "playerName": "Sushant Mishra",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1016.png"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6636607146037aa3267039b8"
+  },
+  "userId": "663639d368e4588515ee71aa",
+  "matchId": "66365fb146037aa32670397d",
+  "team": [
+    {
+      "playerId": "66069d0c7d9bfc89e22d97b5",
+      "playerName": "Dinesh Karthik",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/13.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97f4",
+      "playerName": "Wriddhiman Saha",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/225.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97b1",
+      "playerName": "Faf Du Plessis",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/94.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97b2",
+      "playerName": "Rajat Patidar",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/597.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97b4",
+      "playerName": "Anuj Rawat",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/534.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97f6",
+      "playerName": "Kane Williamson",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/65.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97f1",
+      "playerName": "Shubman Gill",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/62.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97f7",
+      "playerName": "Jayant Yadav",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/165.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97b7",
+      "playerName": "Akash Deep",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1007.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97b9",
+      "playerName": "Lockie Ferguson",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/69.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97fb",
+      "playerName": "Sushant Mishra",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1016.png"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6636623446037aa3267039ca"
+  },
+  "userId": "662ff21e5587d4aa68710f67",
+  "matchId": "66365fb146037aa32670397d",
+  "team": [
+    {
+      "playerId": "66069d0c7d9bfc89e22d97f4",
+      "playerName": "Wriddhiman Saha",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/225.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97f1",
+      "playerName": "Shubman Gill",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/62.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97f2",
+      "playerName": "David Miller",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/128.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97b3",
+      "playerName": "Virat Kohli",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/2.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97f8",
+      "playerName": "Rahul Tewatia",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/120.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97b8",
+      "playerName": "Alzarri Joseph",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/239.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97b9",
+      "playerName": "Lockie Ferguson",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/69.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97fa",
+      "playerName": "Kartik Tyagi",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/536.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97f7",
+      "playerName": "Jayant Yadav",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/165.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97ba",
+      "playerName": "Mohammed Siraj",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/63.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97b1",
+      "playerName": "Faf Du Plessis",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/94.png"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66372341aba5189e24e5469f"
+  },
+  "userId": "662ff21e5587d4aa68710f67",
+  "matchId": "6637230aaba5189e24e54678",
+  "team": [
+    {
+      "playerId": "66069d0c7d9bfc89e22d974b",
+      "playerName": "MS Dhoni",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/57.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974e",
+      "playerName": "Devon Conway",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/601.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9751",
+      "playerName": "Ruturaj Gaikwad",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/102.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a5",
+      "playerName": "N Tilak Varma",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/993.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a4",
+      "playerName": "Ishan Kishan",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/164.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a6",
+      "playerName": "Tim David",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/636.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9753",
+      "playerName": "Ravindra Jadeja",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/46.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974d",
+      "playerName": "Deepak Chahar",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/91.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d974f",
+      "playerName": "Tushar Deshpande",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/539.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97ab",
+      "playerName": "Akash Madhwal",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1045.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a9",
+      "playerName": "Piyush Chawla",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/149.png"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66372370aba5189e24e546bc"
+  },
+  "userId": "663639d368e4588515ee71aa",
+  "matchId": "6637230aaba5189e24e54678",
+  "team": [
+    {
+      "playerId": "66069d0c7d9bfc89e22d974b",
+      "playerName": "MS Dhoni",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/57.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9754",
+      "playerName": "Ajay Mandal",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1931.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a1",
+      "playerName": "Rohit Sharma",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/6.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a2",
+      "playerName": "Dewald Brevis",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/797.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a4",
+      "playerName": "Ishan Kishan",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/164.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9750",
+      "playerName": "Shivam Dube",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/211.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a6",
+      "playerName": "Tim David",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/636.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9752",
+      "playerName": "Rajvardhan Hangargekar",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/783.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d9755",
+      "playerName": "Mukesh Choudhary",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/970.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a8",
+      "playerName": "Jasprit Bumrah",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/9.png"
+    },
+    {
+      "playerId": "66069d0c7d9bfc89e22d97a7",
+      "playerName": "Kwena Maphaka",
+      "url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/801.png"
+    }
+  ],
+  "__v": 0
+}]
